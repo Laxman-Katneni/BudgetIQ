@@ -101,3 +101,4 @@ With a modern Next.js + React frontend, secure PostgreSQL backend, and **Gemini-
    GEMINI_API_KEY = 
 
 # Budget_IQ
+# Budget_IQ
