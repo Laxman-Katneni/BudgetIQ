@@ -100,3 +100,4 @@ With a modern Next.js + React frontend, secure PostgreSQL backend, and **Gemini-
    RESEND_API_KEY = 
    GEMINI_API_KEY = 
 
+# Budget_IQ
